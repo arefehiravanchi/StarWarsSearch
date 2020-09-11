@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/back_gray_transparent"
+    android:orientation="vertical"
+    android:paddingLeft= "@dimen/margin_character_list_items"
+    android:paddingTop="@dimen/padding_character_list_items"
+    android:paddingBottom="@dimen/padding_character_list_items">
+
+    <TextView
+        android:id="@+id/item_personalInfo_txtName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/light_gray"
+        tools:text="R2-D2" />
+
+
+    <TextView
+        android:id="@+id/item_personalInfo_txtBirthDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/light_gray"
+        tools:text="Birth Date" />
+
+    <TextView
+        android:id="@+id/item_personalInfo_txtHeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textColor="@color/light_gray"
+        tools:text="Height" />
+
+    <TextView
+        android:id="@+id/item_personalInfo_txtGender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textColor="@color/light_gray"
+        tools:text="Gender" />
+
+</LinearLayout>

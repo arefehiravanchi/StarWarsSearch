@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="error_loading_movie">Movies Load Problem.</string>
+    <string name="error_loading_planet">Planet Load Problem.</string>
+    <string name="error_loading_species">Species Load Problem.</string>
+    <string name="retry">Retry</string>
+    <string name="empty_character_list">Couldn\'t find %s</string>
+    <string name="hint_character_search">Search</string>
+    <string name="search_character">Find Your Favourite Character!</string>
+    <string name="formatted_name">Name : %s</string>
+    <string name="character_birth_date">Birth Date : %s</string>
+    <string name="character_height">Height : %s</string>
+    <string name="character_gender">Gender : %s</string>
+    <string name="character_info">%s , %s Movies</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="species">Species</string>
+    <string name="movies">Movies</string>
+    <string name="planet">Planet</string>
+    <string name="planet_info">Planet Info</string>
+    <string name="species_info">Species Info</string>
+    <string name="formatted_population">Population : %s</string>
+    <string name="formatted_language">Language : %s</string>
+    <string name="formatted_homeworld">HomeWorld : %s</string>
+    <string name="movies_list">Movies List</string>
+    <string name="characters">Character List</string>
+    <string name="show_all_character">Show All Characters</string>
+</resources>
